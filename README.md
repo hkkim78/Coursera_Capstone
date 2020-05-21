@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM Data Science Professional Certificate Course
+This repository is created for my capstone project, the final step of the "IBM Data Science Professional Certificate" course.
